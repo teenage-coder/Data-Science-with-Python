@@ -1,0 +1,4 @@
+Pizze Name, Size, Price, Quantity, Bill, DataTime
+5 Pepper,large,800,46,36800,Mon Jun  7 03:54:42 2021
+ExtraVagenza,large,800,5,4000,Mon Jun  7 04:00:51 2021
+5 Pepper,large,800,5,4000,Mon Jun  7 04:02:12 2021
